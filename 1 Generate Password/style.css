@@ -1,0 +1,86 @@
+/* #countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#btnContainer{
+    text-align: center;
+}
+
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: hsl(214, 100%, 74%);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: hsl(214, 100%, 56%);
+}
+
+
+
+/* 2 */
+/* #mybutton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+#myLabel1 #myLabel2 #myLabel3{
+    font-size: 3em;
+}  */
+
+body{
+    background-color: hsl(0, 1%, 60%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+/* //4 */
+/* h1{
+    color: hsl(240, 60%, 51%);
+}
+
+form{
+    background-color: white;
+    text-align: center;
+    max-width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px hsla(0, 0%, 0%, 0.3);
+}
+
+#textBox{
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    border: 2px solid hsla(0, 0%, 0%, 0.3);
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+label #result{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+button{
+    margin-top: 15px;
+    background-color: hsl(0, 82%, 42%);
+    color: white;
+    font-size: 1.5em;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+background-color: hsl(0, 64%, 52%);
+} */
+
